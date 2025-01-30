@@ -1,2 +1,14 @@
-# Hotel-Management-System
-Hotel Management System built using Java Swing, JDBC, and MySQL. It includes features like room management, customer &amp; employee info, driver details, and separate interfaces for admin &amp; receptionist. A comprehensive project to manage hotel operations with a user-friendly GUI and database connectivity.
+# Hotel Management System 🏨
+A Java Swing-based Hotel Management System developed as part of the "Advanced Programming Practices" course in my second year. This is my first project, designed to manage hotel operations efficiently using JDBC connectivity and MySQL database.
+
+# Features ✨
+✅ Store and extract information about rooms and customers.
+✅ Homepage, About page, Reception, and Admin pages with respective logins.
+✅ Employee and driver management.
+✅ User-friendly Java Swing interface.
+✅ Secure authentication system.
+
+# Technologies Used 🛠
+Java Swing (for GUI)
+JDBC (for database connectivity)
+MySQL (for data storage)
