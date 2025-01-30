@@ -12,3 +12,5 @@ A Java Swing-based Hotel Management System developed as part of the "Advanced Pr
 Java Swing (for GUI)
 JDBC (for database connectivity)
 MySQL (for data storage)
+# DEMO
+![image](https://github.com/user-attachments/assets/673d9003-47ab-4b09-aae3-2b540de0d7d7)
